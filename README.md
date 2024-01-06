@@ -49,3 +49,8 @@ The Snake Game is a classic arcade game where the player controls a snake that m
 Make sure you have Python and Pygame installed on your system.
 
 ##Controls
+
++ Use arrow keys (Up, Down, Left, Right) to control the snake's direction.
++ Press Esc to exit the game.
+
+##Screenshots
