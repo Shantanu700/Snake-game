@@ -29,4 +29,23 @@ The Snake Game is a classic arcade game where the player controls a snake that m
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/Shantanu700/Snake-game
+
+2. Install the required dependencies
+
+   ```bash
+   pip install Pygame
+
+3. Go to your cloned repository directory
+
+   ```bash
+   cd /path/to/your/repository/
+
+##Usage
+Run the command
+   ```bash
+   python snake.py
+
+Make su
+
+
