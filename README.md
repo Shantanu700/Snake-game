@@ -40,7 +40,7 @@ The Snake Game is a classic arcade game where the player controls a snake that m
    ```bash
    cd /path/to/your/repository
 
-##Usage
+## Usage
 
 1. Run the command.
    ```bash
@@ -48,9 +48,9 @@ The Snake Game is a classic arcade game where the player controls a snake that m
 
 Make sure you have Python and Pygame installed on your system.
 
-##Controls
+## Controls
 
 + Use arrow keys (Up, Down, Left, Right) to control the snake's direction.
 + Press Esc to exit the game.
 
-##Screenshots
+## Screenshots
