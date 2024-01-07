@@ -10,7 +10,6 @@ A classic Snake game implemented in Python using the Pygame library.
 - [Usage](#usage)
 - [Controls](#controls)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
