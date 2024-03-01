@@ -54,4 +54,5 @@ Make sure you have Python and Pygame installed on your system.
 
 ## Screenshots
 <img src="https://github.com/Shantanu700/Snake-game/blob/main/Screenshots/Screenshot%202024-03-01%20154749.png" alt="Example Image" style="max-hieght:10px;" width="400px">
-
+<img src="https://github.com/Shantanu700/Snake-game/blob/main/Screenshots/Screenshot%202024-03-01%20154813.png" alt="Example Image" style="max-hieght:10px;" width="400px">
+<img src="https://github.com/Shantanu700/Snake-game/blob/main/Screenshots/Screenshot%202024-03-01%20154834.png" alt="Example Image" style="max-hieght:10px;" width="400px">
